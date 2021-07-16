@@ -1,1 +1,1 @@
-This repository contains folders which each correspond to a problem in the "Bioinformatics Stronghold" group of problems found on the website: rosalind.info
+This repository contains folders which each correspond to a problem in the "Bioinformatics Stronghold" group of problems found on the website: [Rosalind](rosalind.info). Each folder contains the python script with code used to solve the problem, and text files with the problem statement and data set for each question.
