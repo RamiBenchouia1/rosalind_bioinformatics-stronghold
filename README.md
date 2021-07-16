@@ -1,0 +1,1 @@
+This repository contains folders which each correspond to a problem in the "Bioinformatics Stronghold" group of problems found on the website: rosalind.info
